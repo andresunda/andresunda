@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andresunda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="180" alt="andresunda"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresunda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="180" alt="languages graph"  />
   </br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andresunda&theme=github-dark-blue&border_radius=6" alt="GitHub Streak" /></a>
+ <!--- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andresunda&theme=github-dark-blue&border_radius=6" alt="GitHub Streak" /></a>-->
 </a>
 
 </div>
