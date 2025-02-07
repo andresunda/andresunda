@@ -47,7 +47,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,figma,github,git,tailwind,mui,bootstrap,postman,php,mysql,vscode,angular,astro,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,laravel,figma,github,git,tailwind,mui,bootstrap,postman,php,mysql,vscode,angular,astro,nodejs,npm,bulma)](https://skillicons.dev)
 
 
 
